@@ -1,7 +1,7 @@
 # Assignment_1_IRISvsMNIST
 
-Section 2: k-NN in Python [25 pts]
-### We have provided an example Google Colab notebook to describe how to implement k-NN using the
+# Section 2: k-NN in Python [25 pts]
+We have provided an example Google Colab notebook to describe how to implement k-NN using the
 sci-kit learn library. This example uses MNIST, a popular toy dataset commonly used in ML that includes
 images of hand-written digits. Sci-kit learn has multiple available toy datasets which you can see with this
 link. Please look through the provided code carefully as hints have been placed to make this exercise
