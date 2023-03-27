@@ -2,18 +2,22 @@
 
 # Section 2: k-NN in Python [25 pts]
 We have provided an example Google Colab notebook to describe how to implement k-NN using the
-sci-kit learn library. This example uses MNIST, a popular toy dataset commonly used in ML that includes
+sci-kit learn library. 
+
+This example uses MNIST, a popular toy dataset commonly used in ML that includes
 images of hand-written digits. Sci-kit learn has multiple available toy datasets which you can see with this
-link. Please look through the provided code carefully as hints have been placed to make this exercise
+link. 
+
+Please look through the provided code carefully as hints have been placed to make this exercise
 simpler!
-####4. [15 pts] Using the provided notebook re-implement this algorithm using the Iris dataset (more
+#### 4. [15 pts] Using the provided notebook re-implement this algorithm using the Iris dataset (more
 details in Colab notebook).
 HINT: The Iris dataset is not a dataset of images and is instead tabular data with 4 features (the
 petal length, the sepal length, the petal width, the sepal width). This will require you to comment
 out any sections of code that involve images (to comment out a line in Python, start that line with
 the # character).
-#### a. Provide your Jupyter notebook so we can see your implementation [6 pts]
-#### b. What was the optimal value of k for the Iris dataset and what was the test accuracy when
+###### a. Provide your Jupyter notebook so we can see your implementation [6 pts]
+###### b. What was the optimal value of k for the Iris dataset and what was the test accuracy when
 it was evaluated? [5 pts]
 c. How does the value of k compare to what we observed for MNIST? Why do you think
 this is? [2pts]
