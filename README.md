@@ -19,25 +19,25 @@ the # character).
 ###### a. Provide your Jupyter notebook so we can see your implementation [6 pts]
 ###### b. What was the optimal value of k for the Iris dataset and what was the test accuracy when
 it was evaluated? [5 pts]
-c. How does the value of k compare to what we observed for MNIST? Why do you think
+###### c. How does the value of k compare to what we observed for MNIST? Why do you think
 this is? [2pts]
-d. When k becomes larger and close to the size of the training set the validation accuracy
+###### d. When k becomes larger and close to the size of the training set the validation accuracy
 drops, why is that? [2pts]
-5. [10 pts] Using the same notebook you implemented for the IRIS dataset we would like to
+#### 5. [10 pts] Using the same notebook you implemented for the IRIS dataset we would like to
 understand what happens when we work with lower dimensionality data. To simulate this only
 use the first two columns/features (sepal length and width) and re-run your model
 HINT: This will involve changing your dataset immediately after using the sklearn load function.
-a. What is the shape of the input data when you use only the first two features? [2 pt]
-b. What was the optimal value of K for the Iris dataset and what was the test accuracy when
+###### a. What is the shape of the input data when you use only the first two features? [2 pt]
+###### b. What was the optimal value of K for the Iris dataset and what was the test accuracy when
 it was evaluated? [5 pts]
-c. How did this compare to when we previously used all of the data? [3 pts]
-3
-Caregivers & Machine Learning Program 2023 - Vector Institute
+###### c. How did this compare to when we previously used all of the data? [3 pts]
+
+# Caregivers & Machine Learning Program 2023 - Vector Institute
 BONUS Section 3: Math Questions [+10 pts]:
-6. [10pts] First, consider two independent univariate random variables X and Y sampled
+#### 6. [10pts] First, consider two independent univariate random variables X and Y sampled
 uniformly from the unit interval [0,1]. Determine the expectation E[Z] and variance Var[Z]
 of the random variable Z, defined as the squared distance 𝑍 = (𝑋 − 𝑌) . 2
 You are allowed to evaluate integrals numerically (e.g. using scipy.integrate.quad or
 scipy.integrate.dblquad), but you should explain what integral(s) you are evaluating,
 and why.
-4
+
