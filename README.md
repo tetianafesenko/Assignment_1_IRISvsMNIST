@@ -17,19 +17,16 @@ petal length, the sepal length, the petal width, the sepal width). This will req
 out any sections of code that involve images (to comment out a line in Python, start that line with
 the # character).
 ###### a. Provide your Jupyter notebook so we can see your implementation [6 pts]
-###### b. What was the optimal value of k for the Iris dataset and what was the test accuracy when
-it was evaluated? [5 pts]
-###### c. How does the value of k compare to what we observed for MNIST? Why do you think
-this is? [2pts]
+###### b. What was the optimal value of k for the Iris dataset and what was the test accuracy when it was evaluated? [5 pts]
+###### c. How does the value of k compare to what we observed for MNIST? Why do you thinkthis is? [2pts]
 ###### d. When k becomes larger and close to the size of the training set the validation accuracy
 drops, why is that? [2pts]
-#### 5. [10 pts] Using the same notebook you implemented for the IRIS dataset we would like to
-understand what happens when we work with lower dimensionality data. To simulate this only
-use the first two columns/features (sepal length and width) and re-run your model
+#### 5. [10 pts] Using the same notebook you implemented for the IRIS dataset we would like to understand what happens when we work with lower dimensionality data. To simulate this only use the first two columns/features (sepal length and width) and re-run your model
+
 HINT: This will involve changing your dataset immediately after using the sklearn load function.
+
 ###### a. What is the shape of the input data when you use only the first two features? [2 pt]
-###### b. What was the optimal value of K for the Iris dataset and what was the test accuracy when
-it was evaluated? [5 pts]
+###### b. What was the optimal value of K for the Iris dataset and what was the test accuracy when it was evaluated? [5 pts]
 ###### c. How did this compare to when we previously used all of the data? [3 pts]
 
 # Caregivers & Machine Learning Program 2023 - Vector Institute
