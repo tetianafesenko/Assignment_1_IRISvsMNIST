@@ -10,9 +10,7 @@ link.
 
 Please look through the provided code carefully as hints have been placed to make this exercise
 simpler!
-#### 4. [15 pts] 
-
-Using the provided notebook re-implement this algorithm using the Iris dataset (more details in Colab notebook).
+#### 4. [15 pts] Using the provided notebook re-implement this algorithm using the Iris dataset (more details in Colab notebook).
 
 HINT: The Iris dataset is not a dataset of images and is instead tabular data with 4 features (the petal length, the sepal length, the petal width, the sepal width). This will require you to comment out any sections of code that involve images (to comment out a line in Python, start that line with the # character).
 
