@@ -32,7 +32,5 @@ BONUS Section 3: Math Questions [+10 pts]:
 
 #### 6. [10pts] First, consider two independent univariate random variables X and Y sampled uniformly from the unit interval [0,1]. Determine the expectation E[Z] and variance Var[Z] of the random variable Z, defined as the squared distance 𝑍 = (𝑋 − 𝑌) 
 
-You are allowed to evaluate integrals numerically (e.g. using scipy.integrate.quad or
-scipy.integrate.dblquad), but you should explain what integral(s) you are evaluating,
-and why.
+You are allowed to evaluate integrals numerically (e.g. using scipy.integrate.quad or scipy.integrate.dblquad), but you should explain what integral(s) you are evaluating, and why.
 
